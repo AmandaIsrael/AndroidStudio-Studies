@@ -1,4 +1,4 @@
-## Projetos Android Studio :tw-1f4f1:
+## Projetos Android Studio 
 
 #### Projetos que abrangeram o desenvolvimento e o desing de aplicativos usando o *Android Studio*. Aulas ministradas pelo professor Willian Douglas Ferrari Mendonca.
 
