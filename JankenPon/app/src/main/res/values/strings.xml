@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JankenPon</string>
+    <string name="Text">Text</string>
+    <string name="TextDefault">TextDefault</string>
+</resources>
